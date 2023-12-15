@@ -32,6 +32,9 @@ I'm currently working on the Drone Based Civil Structures Assessment under [Prof
 <a href="https://www.youtube.com/channel/UCXzqunUE_qv8Bg-MHE8j77Q">
   <img align="left" alt="Charvi's Youtube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<a href="https://charvi-077.github.io/about/">
+  <img align="left" alt="Charvi's Youtube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/workplace.svg" />
+</a>
 <a href="mailto:charvi077@gmail.com">
   <img align="left" alt="Charvi's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
