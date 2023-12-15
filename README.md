@@ -3,7 +3,7 @@
 
 #### About Me
 
-I'm Research Intern at the Robotics Research Institute, IIIT Hyderabad.
+I'm Research Intern at the Robotics Research Center, IIIT Hyderabad.
 <p></p>
 
 I'm currently working on the Drone Based Civil Structures Assessment under [Prof. Harikumar Kandath](https://sites.google.com/view/harikumar-kandath/home) and [Prof. Ravi Kiran Sarvadevabhatla](https://ravika.github.io/).
