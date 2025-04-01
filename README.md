@@ -3,15 +3,16 @@
 
 #### About Me
 
-I'm Research Intern at the Robotics Research Center, IIIT Hyderabad.
-<p></p>
+<p> 👋 Hi there! I'm a graduate student, working at the Vision Research Lab, UC Santa Barbara, passionate about robotics, perception, and intelligent systems. I’ve been captivated by the idea of building machines that see and think like humans — combining vision (through cameras or LiDAR) with powerful computation.
 
-I'm currently working on the Drone Based Civil Structures Assessment under [Prof. Harikumar Kandath](https://sites.google.com/view/harikumar-kandath/home) and [Prof. Ravi Kiran Sarvadevabhatla](https://ravika.github.io/).
+From programming robots to researching autonomy, I’ve been exploring this intersection ever since — driven by the excitement of contributing to a future where robots are not just tools, but intelligent collaborators.</p>
+
+I'm currently working on the [BisQue](https://github.com/UCSB-VRL/bisqueUCSB) Project and small object detection under guidance of [Prof. BS Manjunath](https://scholar.google.com/citations?user=wRYM4qgAAAAJ&hl=en).
 
 #### Research Interests
 - Robot Perception
-- Robot Learning
-
+- 3D Vision
+- 2D Computer Vision
 
 <!-- <br> -->
 
