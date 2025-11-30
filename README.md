@@ -3,19 +3,22 @@
 
 #### About Me
 
-<p> 👋 Hi there! I'm a graduate student, working at the Vision Research Lab, UC Santa Barbara, passionate about robotics, perception, and intelligent systems. I’ve been captivated by the idea of building machines that see and think like humans combining vision (through cameras or LiDAR) with powerful computation.
-
-From programming robots to researching computer vision, I’ve been exploring this intersection ever since driven by the excitement of contributing to a future where robots are not just tools, but intelligent collaborators.</p>
+<p> 👋 Hi there! I'm MS student at [UCSB](https://www.ece.ucsb.edu/) and graduate researcher at [Vision Research Lab](https://vision.ece.ucsb.edu/index.html), UC Santa Barbara, working at intersection of 2D/3D computer vision and robotics. I’m passionate about building machines that see, understand, and interact with the world through vision and learned computations.</p>
 
 I'm currently working on the [BisQue](https://github.com/UCSB-VRL/bisqueUCSB) Project and small object detection under guidance of [Prof. BS Manjunath](https://scholar.google.com/citations?user=wRYM4qgAAAAJ&hl=en).
 
 #### 👀 What I’m up to
 
-I am actively working on my research and software engineering skills. My current focus is on mastering computer vision from classical image preprocessing to modern foundation models and extending this knowledge into 3D vision, with focus on SLAM and 3D reconstruction.
+- Advancing skills in computer vision, from classical image processing to foundation models
+- Learning 3D vision (SLAM, 3D reconstruction, Gaussian Splatting and Generative models) 
+- Integrating image + LiDAR to project 2D data into meaningful 3D understanding
+- Writing reliable, modern software for robotics and perception
+
+<!--I am actively working on my research and software engineering skills. My current focus is on mastering computer vision from classical image preprocessing to modern foundation models and extending this knowledge into 3D vision, with focus on SLAM and 3D reconstruction.
 
 I believe deeply in the entire process of projecting 2D image data into 3D space, including working with LiDAR data. This drives me to explore how classical vision tasks like object detection and segmentation can be effectively applied in 3D environments using both image and LiDAR inputs.
 
-As a software engineer, I stay updated with modern tools, frameworks, and best practices. I have applied my skills in robotics perception and biosciences, and I continue to work at the intersection of cutting-edge research and reliable software development.
+As a software engineer, I stay updated with modern tools, frameworks, and best practices. I have applied my skills in robotics perception and biosciences, and I continue to work at the intersection of cutting-edge research and reliable software development. -->
 
 <!-- <br> -->
 
@@ -25,7 +28,7 @@ As a software engineer, I stay updated with modern tools, frameworks, and best p
  -->
  
  
-#### Reach out
+#### Feel free to Reach out
 
 <a href="https://twitter.com/charvi077">
   <img align="left" alt="Charvi's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
