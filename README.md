@@ -3,7 +3,7 @@
 
 #### About Me
 
-<p> 👋 Hi there! I'm MS student at [UCSB](https://www.ece.ucsb.edu/) and graduate researcher at [Vision Research Lab](https://vision.ece.ucsb.edu/index.html), UC Santa Barbara, working at intersection of 2D/3D computer vision and robotics. I’m passionate about building machines that see, understand, and interact with the world through vision and learned computations.</p>
+👋 Hi there! I'm MS student at [UCSB](https://www.ece.ucsb.edu/) and graduate researcher at [Vision Research Lab](https://vision.ece.ucsb.edu/index.html), UC Santa Barbara, working at intersection of 2D/3D computer vision and robotics. I’m passionate about building machines that see, understand, and interact with the world through vision and learned computations.
 
 I'm currently working on the [BisQue](https://github.com/UCSB-VRL/bisqueUCSB) Project and small object detection under guidance of [Prof. BS Manjunath](https://scholar.google.com/citations?user=wRYM4qgAAAAJ&hl=en).
 
