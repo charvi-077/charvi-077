@@ -26,10 +26,12 @@ As a software engineer, I stay updated with modern tools, frameworks, and best p
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayruchira&count_private=true)](https://github.com/rayruchira/github-readme-stats)
 
  -->
- 
- 
-#### Feel free to Reach out
 
+ Learn more about what I'm up to on [my website](https://charvi-077.github.io/) or via email charvi077@gmail.com
+ 
+<!--#### Feel free to Reach out-->
+
+<!--
 <a href="https://twitter.com/charvi077">
   <img align="left" alt="Charvi's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -46,7 +48,7 @@ As a software engineer, I stay updated with modern tools, frameworks, and best p
   <img align="left" alt="Charvi's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 
-
+-->
 
 
 
